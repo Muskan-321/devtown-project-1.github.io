@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/devtown-project-1.github.io/static/css/main.143ec349.css",
+    "main.js": "/devtown-project-1.github.io/static/js/main.09ec3168.js",
+    "static/js/787.28cb0dcd.chunk.js": "/devtown-project-1.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/devtown-project-1.github.io/index.html",
+    "main.143ec349.css.map": "/devtown-project-1.github.io/static/css/main.143ec349.css.map",
+    "main.09ec3168.js.map": "/devtown-project-1.github.io/static/js/main.09ec3168.js.map",
+    "787.28cb0dcd.chunk.js.map": "/devtown-project-1.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.143ec349.css",
+    "static/js/main.09ec3168.js"
+  ]
+}
